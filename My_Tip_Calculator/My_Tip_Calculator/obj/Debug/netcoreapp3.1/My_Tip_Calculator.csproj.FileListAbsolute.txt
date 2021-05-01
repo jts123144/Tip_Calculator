@@ -1,0 +1,15 @@
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\bin\Debug\netcoreapp3.1\My_Tip_Calculator.exe
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\bin\Debug\netcoreapp3.1\My_Tip_Calculator.deps.json
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\bin\Debug\netcoreapp3.1\My_Tip_Calculator.runtimeconfig.json
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\bin\Debug\netcoreapp3.1\My_Tip_Calculator.runtimeconfig.dev.json
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\bin\Debug\netcoreapp3.1\My_Tip_Calculator.dll
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\bin\Debug\netcoreapp3.1\My_Tip_Calculator.pdb
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.Form1.resources
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.AssemblyInfoInputs.cache
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.AssemblyInfo.cs
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.dll
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.pdb
+C:\Users\sunny\source\repos\My_Tip_Calculator\My_Tip_Calculator\obj\Debug\netcoreapp3.1\My_Tip_Calculator.genruntimeconfig.cache

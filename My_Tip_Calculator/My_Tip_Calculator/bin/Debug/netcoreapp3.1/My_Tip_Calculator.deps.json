@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "My_Tip_Calculator/1.0.0": {
+        "runtime": {
+          "My_Tip_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "My_Tip_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
